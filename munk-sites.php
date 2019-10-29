@@ -21,6 +21,7 @@
  * to the Free Software Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA 02110-1301 USA 
  *
  * Plugin Name:       Munk Sites
+ * Plugin URI:        https://github.com/metricthemes/munk-sites
  * Description:       Import ready to use instant sites for your WP Munk Theme.
  * Version:           1.0.0
  * Author:            MetricThemes
